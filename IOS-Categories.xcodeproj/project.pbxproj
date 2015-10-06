@@ -350,7 +350,6 @@
 		BCB799FF1AFDE08E00C12525 /* UIViewController+TopBarMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = BCB799FE1AFDE08E00C12525 /* UIViewController+TopBarMessage.m */; };
 		BCB79A021AFDE0B600C12525 /* NSObject+MKBlockTimer.m in Sources */ = {isa = PBXBuildFile; fileRef = BCB79A011AFDE0B600C12525 /* NSObject+MKBlockTimer.m */; };
 		BCB79A051AFDE19200C12525 /* NSString+Contains.m in Sources */ = {isa = PBXBuildFile; fileRef = BCB79A041AFDE19200C12525 /* NSString+Contains.m */; };
-		BCB79A081AFDE2F700C12525 /* UIViewController+DDPopUpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BCB79A071AFDE2F700C12525 /* UIViewController+DDPopUpViewController.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		BCB79A0C1AFDF23500C12525 /* UIAlertView+Block.m in Sources */ = {isa = PBXBuildFile; fileRef = BCB79A0B1AFDF23500C12525 /* UIAlertView+Block.m */; };
 		BCB9547D1B0D829800E6BA78 /* NSData+SDDataCache.m in Sources */ = {isa = PBXBuildFile; fileRef = BCB9547C1B0D829800E6BA78 /* NSData+SDDataCache.m */; };
 /* End PBXBuildFile section */
@@ -972,8 +971,6 @@
 		BCB79A011AFDE0B600C12525 /* NSObject+MKBlockTimer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+MKBlockTimer.m"; sourceTree = "<group>"; };
 		BCB79A031AFDE19200C12525 /* NSString+Contains.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Contains.h"; sourceTree = "<group>"; };
 		BCB79A041AFDE19200C12525 /* NSString+Contains.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Contains.m"; sourceTree = "<group>"; };
-		BCB79A061AFDE2F700C12525 /* UIViewController+DDPopUpViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+DDPopUpViewController.h"; sourceTree = "<group>"; };
-		BCB79A071AFDE2F700C12525 /* UIViewController+DDPopUpViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+DDPopUpViewController.m"; sourceTree = "<group>"; };
 		BCB79A0A1AFDF23500C12525 /* UIAlertView+Block.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIAlertView+Block.h"; sourceTree = "<group>"; };
 		BCB79A0B1AFDF23500C12525 /* UIAlertView+Block.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIAlertView+Block.m"; sourceTree = "<group>"; };
 		BCB9547B1B0D829800E6BA78 /* NSData+SDDataCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+SDDataCache.h"; sourceTree = "<group>"; };
@@ -2309,8 +2306,6 @@
 				A243772F1ACBF2A600FFFEA1 /* UIViewController+MJPopupViewController.m */,
 				BCB799FD1AFDE08E00C12525 /* UIViewController+TopBarMessage.h */,
 				BCB799FE1AFDE08E00C12525 /* UIViewController+TopBarMessage.m */,
-				BCB79A061AFDE2F700C12525 /* UIViewController+DDPopUpViewController.h */,
-				BCB79A071AFDE2F700C12525 /* UIViewController+DDPopUpViewController.m */,
 				A2958CB81B357AEF00D7AA0F /* UIViewController+StoreKit.h */,
 				A2958CB91B357AEF00D7AA0F /* UIViewController+StoreKit.m */,
 				798256151B3A57340033A0C1 /* UIViewController+BackButtonHandler.h */,
@@ -3141,7 +3136,6 @@
 				A2958D3C1B35A2E900D7AA0F /* UIWebVIew+SwipeGesture.m in Sources */,
 				A28BE3421A3EA20B005C4AC6 /* UIColor+Random.m in Sources */,
 				A2FD5B631A52718200555EA2 /* NSDate+Utilities.m in Sources */,
-				BCB79A081AFDE2F700C12525 /* UIViewController+DDPopUpViewController.m in Sources */,
 				A24EC3021B74E26400CE538B /* NSData+APNSToken.m in Sources */,
 				A280E5321A523AD700E6ACA2 /* UIView+BlockGesture.m in Sources */,
 				A2FD5B591A526C6800555EA2 /* UISearchBar+Blocks.m in Sources */,
