@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target   = '7.0'
   s.platform                = :ios, '7.0'
   s.name                    = 'CMCategories'
-  s.version                 = '0.1.0'
+  s.version                 = '0.1.1'
   s.summary                 = 'iOS Categories.'
   s.homepage                = 'https://github.com/imjerrybao/CMCategories'
   s.license                 = { :type => 'MIT', :file => 'LICENSE' }
