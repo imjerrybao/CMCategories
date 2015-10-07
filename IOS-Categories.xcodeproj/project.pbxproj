@@ -327,7 +327,6 @@
 		A2EF56DE1B21C52B0005F730 /* NSManagedObjectDemoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2EF56DC1B21C52B0005F730 /* NSManagedObjectDemoViewController.xib */; };
 		A2EF56E11B21C59C0005F730 /* UIImage+Blur.m in Sources */ = {isa = PBXBuildFile; fileRef = A2EF56E01B21C59C0005F730 /* UIImage+Blur.m */; };
 		A2EF56E71B21C5F60005F730 /* NSDecimalNumber+Extensions.m in Sources */ = {isa = PBXBuildFile; fileRef = A2EF56E61B21C5F60005F730 /* NSDecimalNumber+Extensions.m */; };
-		A2EF56EA1B21CD620005F730 /* UIView+Shake.m in Sources */ = {isa = PBXBuildFile; fileRef = A2EF56E91B21CD620005F730 /* UIView+Shake.m */; };
 		A2EF56EE1B21D0980005F730 /* NSNotificationCenter+MainThread.m in Sources */ = {isa = PBXBuildFile; fileRef = A2EF56ED1B21D0980005F730 /* NSNotificationCenter+MainThread.m */; };
 		A2EF56F31B21D1270005F730 /* NSNotificationCenterDemoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A2EF56F11B21D1270005F730 /* NSNotificationCenterDemoViewController.m */; };
 		A2EF56F41B21D1270005F730 /* NSNotificationCenterDemoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A2EF56F21B21D1270005F730 /* NSNotificationCenterDemoViewController.xib */; };
@@ -927,8 +926,6 @@
 		A2EF56E01B21C59C0005F730 /* UIImage+Blur.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Blur.m"; sourceTree = "<group>"; };
 		A2EF56E51B21C5F60005F730 /* NSDecimalNumber+Extensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDecimalNumber+Extensions.h"; sourceTree = "<group>"; };
 		A2EF56E61B21C5F60005F730 /* NSDecimalNumber+Extensions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDecimalNumber+Extensions.m"; sourceTree = "<group>"; };
-		A2EF56E81B21CD620005F730 /* UIView+Shake.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Shake.h"; sourceTree = "<group>"; };
-		A2EF56E91B21CD620005F730 /* UIView+Shake.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Shake.m"; sourceTree = "<group>"; };
 		A2EF56EC1B21D0980005F730 /* NSNotificationCenter+MainThread.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSNotificationCenter+MainThread.h"; sourceTree = "<group>"; };
 		A2EF56ED1B21D0980005F730 /* NSNotificationCenter+MainThread.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSNotificationCenter+MainThread.m"; sourceTree = "<group>"; };
 		A2EF56F01B21D1270005F730 /* NSNotificationCenterDemoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSNotificationCenterDemoViewController.h; sourceTree = "<group>"; };
@@ -2275,8 +2272,6 @@
 				BCB799FB1AFDDE2300C12525 /* UIView+ViewController.m */,
 				A202D96F1B0F778900EAB199 /* UIView+Constraints.h */,
 				A202D9701B0F778900EAB199 /* UIView+Constraints.m */,
-				A2EF56E81B21CD620005F730 /* UIView+Shake.h */,
-				A2EF56E91B21CD620005F730 /* UIView+Shake.m */,
 				A2958CB51B35794500D7AA0F /* UIView+Visuals.h */,
 				A2958CB61B35794500D7AA0F /* UIView+Visuals.m */,
 				A2958D131B35961600D7AA0F /* UIView+draggable.h */,
@@ -3052,7 +3047,6 @@
 				A281FBF91AC813B8009040DA /* UITextViewDemoViewController.m in Sources */,
 				A202D9C01B1038DB00EAB199 /* UIBarButtonItemDemoViewController.m in Sources */,
 				A2C12B9F1B1C281200EAD198 /* UINavigationController+FDFullscreenPopGesture.m in Sources */,
-				A2EF56EA1B21CD620005F730 /* UIView+Shake.m in Sources */,
 				A29266521A78976B00D01EDA /* UIResponder+UIAdapt.m in Sources */,
 				A28BE3551A3EAA21005C4AC6 /* NSObject+Blocks.m in Sources */,
 				A2C12BA21B1C282C00EAD198 /* UITableView+iOS7Style.m in Sources */,
