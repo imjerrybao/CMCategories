@@ -1,5 +1,6 @@
-CMCategories, another fork for iOS-Categories
+CMCategories
 ================
+Another fork of [iOS-Categories](https://github.com/shaojiankui/iOS-Categories)
 
 Objective-C Categories in iOS, a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.
 
