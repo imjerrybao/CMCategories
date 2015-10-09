@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target   = '7.0'
   s.platform                = :ios, '7.0'
   s.name                    = 'CMCategories'
-  s.version                 = '0.1.2'
+  s.version                 = '0.1.3'
   s.summary                 = 'Objective-C Categories in iOS, a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.'
   s.homepage                = 'https://github.com/imjerrybao/CMCategories'
   s.license                 = { :type => 'MIT', :file => 'LICENSE' }
