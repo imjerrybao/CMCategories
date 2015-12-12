@@ -11,6 +11,7 @@ Extensions of Foundation, UIKit, CoreData, QuartzCore, CoreLocation, MapKit.
 pod 'CMCategories'
 
 OR
+
 pod 'CMCategories/CoreData'
 pod 'CMCategories/CoreLocation'
 pod 'CMCategories/Foundation'
