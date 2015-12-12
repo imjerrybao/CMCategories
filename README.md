@@ -2,7 +2,8 @@ CMCategories
 ================
 Another fork of [iOS-Categories](https://github.com/shaojiankui/iOS-Categories)
 
-iOS categories, use both in Objective-C and Swift.
+iOS Categories, Use both in Objective-C and Swift.
+
 Extensions of Foundation, UIKit, CoreData, QuartzCore, CoreLocation, MapKit.
 
 ## Install Via Cocoapods
