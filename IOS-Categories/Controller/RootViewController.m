@@ -40,7 +40,6 @@
                        @"UIWindow",
                        @"MKMapView",
                        @"UITableView",
-                       @"UINavigationBar",
                        @"UIAlertView",
                        @"UINavigationItem",
                        @"UIScreen",

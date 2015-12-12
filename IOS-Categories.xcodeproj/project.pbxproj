@@ -61,7 +61,6 @@
 		A21CF1801B38F631006415E0 /* NSHTTPCookieStorageDemoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A21CF17E1B38F631006415E0 /* NSHTTPCookieStorageDemoViewController.m */; };
 		A21CF1811B38F631006415E0 /* NSHTTPCookieStorageDemoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A21CF17F1B38F631006415E0 /* NSHTTPCookieStorageDemoViewController.xib */; };
 		A21CF1841B38F65C006415E0 /* NSHTTPCookieStorage+FreezeDry.m in Sources */ = {isa = PBXBuildFile; fileRef = A21CF1831B38F65C006415E0 /* NSHTTPCookieStorage+FreezeDry.m */; };
-		A21CF1871B38F708006415E0 /* UINavigationBar+CustomHeight.m in Sources */ = {isa = PBXBuildFile; fileRef = A21CF1861B38F708006415E0 /* UINavigationBar+CustomHeight.m */; };
 		A21CF18A1B38F7C4006415E0 /* MKMapView+MoveLogo.m in Sources */ = {isa = PBXBuildFile; fileRef = A21CF1891B38F7C4006415E0 /* MKMapView+MoveLogo.m */; };
 		A21F34BD1B0F221400D73A91 /* UINavigationItem+Lock.m in Sources */ = {isa = PBXBuildFile; fileRef = A21F34BC1B0F221400D73A91 /* UINavigationItem+Lock.m */; };
 		A21F34C11B0F229700D73A91 /* UIScreen+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = A21F34C01B0F229700D73A91 /* UIScreen+Frame.m */; };
@@ -177,9 +176,6 @@
 		A284C10B1AEBBB8600D90ED5 /* UIBezierPath+Symbol.m in Sources */ = {isa = PBXBuildFile; fileRef = A284C10A1AEBBB8600D90ED5 /* UIBezierPath+Symbol.m */; };
 		A284C1101AEBBCFC00D90ED5 /* NSDate+TimeAgo.m in Sources */ = {isa = PBXBuildFile; fileRef = A284C10E1AEBBCFC00D90ED5 /* NSDate+TimeAgo.m */; };
 		A284C1111AEBBCFC00D90ED5 /* NSDateTimeAgo.bundle in Resources */ = {isa = PBXBuildFile; fileRef = A284C10F1AEBBCFC00D90ED5 /* NSDateTimeAgo.bundle */; };
-		A284C1151AEBBF8000D90ED5 /* UINavigationBar+Awesome.m in Sources */ = {isa = PBXBuildFile; fileRef = A284C1141AEBBF8000D90ED5 /* UINavigationBar+Awesome.m */; };
-		A284C1251AEBC19C00D90ED5 /* UINavigationBarDemoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A284C1231AEBC19C00D90ED5 /* UINavigationBarDemoViewController.m */; };
-		A284C1261AEBC19C00D90ED5 /* UINavigationBarDemoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A284C1241AEBC19C00D90ED5 /* UINavigationBarDemoViewController.xib */; };
 		A284C12A1AEBCB7F00D90ED5 /* NSIndexPath+Offset.m in Sources */ = {isa = PBXBuildFile; fileRef = A284C1291AEBCB7F00D90ED5 /* NSIndexPath+Offset.m */; };
 		A284C1381AEBCEE700D90ED5 /* NSDateFormatter+Make.m in Sources */ = {isa = PBXBuildFile; fileRef = A284C1371AEBCEE700D90ED5 /* NSDateFormatter+Make.m */; };
 		A284C13F1AEBCF9600D90ED5 /* NSDateFormatterDemoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A284C13D1AEBCF9600D90ED5 /* NSDateFormatterDemoViewController.m */; };
@@ -450,8 +446,6 @@
 		A21CF17F1B38F631006415E0 /* NSHTTPCookieStorageDemoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NSHTTPCookieStorageDemoViewController.xib; sourceTree = "<group>"; };
 		A21CF1821B38F65C006415E0 /* NSHTTPCookieStorage+FreezeDry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSHTTPCookieStorage+FreezeDry.h"; sourceTree = "<group>"; };
 		A21CF1831B38F65C006415E0 /* NSHTTPCookieStorage+FreezeDry.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSHTTPCookieStorage+FreezeDry.m"; sourceTree = "<group>"; };
-		A21CF1851B38F708006415E0 /* UINavigationBar+CustomHeight.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UINavigationBar+CustomHeight.h"; sourceTree = "<group>"; };
-		A21CF1861B38F708006415E0 /* UINavigationBar+CustomHeight.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UINavigationBar+CustomHeight.m"; sourceTree = "<group>"; };
 		A21CF1881B38F7C4006415E0 /* MKMapView+MoveLogo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MKMapView+MoveLogo.h"; sourceTree = "<group>"; };
 		A21CF1891B38F7C4006415E0 /* MKMapView+MoveLogo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "MKMapView+MoveLogo.m"; sourceTree = "<group>"; };
 		A21F34BB1B0F221400D73A91 /* UINavigationItem+Lock.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UINavigationItem+Lock.h"; sourceTree = "<group>"; };
@@ -645,11 +639,6 @@
 		A284C10D1AEBBCFC00D90ED5 /* NSDate+TimeAgo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+TimeAgo.h"; sourceTree = "<group>"; };
 		A284C10E1AEBBCFC00D90ED5 /* NSDate+TimeAgo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+TimeAgo.m"; sourceTree = "<group>"; };
 		A284C10F1AEBBCFC00D90ED5 /* NSDateTimeAgo.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = NSDateTimeAgo.bundle; sourceTree = "<group>"; };
-		A284C1131AEBBF8000D90ED5 /* UINavigationBar+Awesome.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UINavigationBar+Awesome.h"; sourceTree = "<group>"; };
-		A284C1141AEBBF8000D90ED5 /* UINavigationBar+Awesome.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UINavigationBar+Awesome.m"; sourceTree = "<group>"; };
-		A284C1221AEBC19C00D90ED5 /* UINavigationBarDemoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UINavigationBarDemoViewController.h; sourceTree = "<group>"; };
-		A284C1231AEBC19C00D90ED5 /* UINavigationBarDemoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UINavigationBarDemoViewController.m; sourceTree = "<group>"; };
-		A284C1241AEBC19C00D90ED5 /* UINavigationBarDemoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = UINavigationBarDemoViewController.xib; sourceTree = "<group>"; };
 		A284C1281AEBCB7F00D90ED5 /* NSIndexPath+Offset.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSIndexPath+Offset.h"; sourceTree = "<group>"; };
 		A284C1291AEBCB7F00D90ED5 /* NSIndexPath+Offset.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSIndexPath+Offset.m"; sourceTree = "<group>"; };
 		A284C1361AEBCEE700D90ED5 /* NSDateFormatter+Make.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = "NSDateFormatter+Make.h"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
@@ -1378,7 +1367,6 @@
 				A202D9681B0F6F9800EAB199 /* UIBarButtonItem */,
 				A21F34BE1B0F228A00D73A91 /* UIScreen */,
 				A21F34BA1B0F220700D73A91 /* UINavigationItem */,
-				A284C1121AEBBF7900D90ED5 /* UINavigationBar */,
 				A284C0FF1AEB940F00D90ED5 /* UITableView */,
 				A2FD0CBB1AB1618D00EDEA4C /* UIWindow */,
 				A2FD5B561A526C6800555EA2 /* UISearchBar */,
@@ -1703,7 +1691,6 @@
 				A21F34C21B0F246100D73A91 /* UIAlertView */,
 				A21F34C31B0F246100D73A91 /* UINavigationItem */,
 				A21F34C41B0F246100D73A91 /* UIScreen */,
-				A284C1211AEBC19100D90ED5 /* UINavigationBar */,
 				A284C1031AEB943C00D90ED5 /* UITableView */,
 				A281FB5C1AC8101F009040DA /* UIBezierPath */,
 				A281FB5D1AC8101F009040DA /* UIButton */,
@@ -1936,27 +1923,6 @@
 				A284C10F1AEBBCFC00D90ED5 /* NSDateTimeAgo.bundle */,
 			);
 			name = "NSDate+TimeAgo";
-			sourceTree = "<group>";
-		};
-		A284C1121AEBBF7900D90ED5 /* UINavigationBar */ = {
-			isa = PBXGroup;
-			children = (
-				A284C1131AEBBF8000D90ED5 /* UINavigationBar+Awesome.h */,
-				A284C1141AEBBF8000D90ED5 /* UINavigationBar+Awesome.m */,
-				A21CF1851B38F708006415E0 /* UINavigationBar+CustomHeight.h */,
-				A21CF1861B38F708006415E0 /* UINavigationBar+CustomHeight.m */,
-			);
-			path = UINavigationBar;
-			sourceTree = "<group>";
-		};
-		A284C1211AEBC19100D90ED5 /* UINavigationBar */ = {
-			isa = PBXGroup;
-			children = (
-				A284C1221AEBC19C00D90ED5 /* UINavigationBarDemoViewController.h */,
-				A284C1231AEBC19C00D90ED5 /* UINavigationBarDemoViewController.m */,
-				A284C1241AEBC19C00D90ED5 /* UINavigationBarDemoViewController.xib */,
-			);
-			path = UINavigationBar;
 			sourceTree = "<group>";
 		};
 		A284C1271AEBCB7A00D90ED5 /* NSIndexPath */ = {
@@ -2876,7 +2842,6 @@
 				A202D99B1B0F916900EAB199 /* UIControlDemoViewController.xib in Resources */,
 				A21F34C91B0F247800D73A91 /* UIScreenDemoViewController.xib in Resources */,
 				A20A5A6D1B4E2886004E2474 /* NSFileHandleDemoViewController.xib in Resources */,
-				A284C1261AEBC19C00D90ED5 /* UINavigationBarDemoViewController.xib in Resources */,
 				A284C1111AEBBCFC00D90ED5 /* NSDateTimeAgo.bundle in Resources */,
 				A284C1081AEB944B00D90ED5 /* UITableViewDemoViewController.xib in Resources */,
 				A281FBC71AC81303009040DA /* UIColorDemoViewController.xib in Resources */,
@@ -2969,7 +2934,6 @@
 				A2AF02AA1A74C096003FEC8D /* NSDictionary+Merge.m in Sources */,
 				BCB79A021AFDE0B600C12525 /* NSObject+MKBlockTimer.m in Sources */,
 				A202D96E1B0F75B400EAB199 /* NSDictionary+Block.m in Sources */,
-				A284C1151AEBBF8000D90ED5 /* UINavigationBar+Awesome.m in Sources */,
 				A28BE32E1A3E9FDC005C4AC6 /* UIImage+FX.m in Sources */,
 				A2958D3F1B35A41F00D7AA0F /* UIWebView+MetaParser.m in Sources */,
 				A281FB801AC811F0009040DA /* NSArrayDemoViewController.m in Sources */,
@@ -3010,7 +2974,6 @@
 				A2893D971AC3E5FE00EFA90A /* UIButton+Indicator.m in Sources */,
 				A281FB4A1AC80C31009040DA /* WebView+Debug.m in Sources */,
 				A281FBEF1AC8139D009040DA /* UITableViewCellDemoViewController.m in Sources */,
-				A21CF1871B38F708006415E0 /* UINavigationBar+CustomHeight.m in Sources */,
 				A2FD5B471A52636100555EA2 /* UIResponder+Chain.m in Sources */,
 				A2958CC81B35804600D7AA0F /* CAShapeLayer+UIBezierPath.m in Sources */,
 				A2958D331B359CA900D7AA0F /* UIImageView+Reflect.m in Sources */,
@@ -3123,7 +3086,6 @@
 				A238E0581A4555F400383A97 /* NSObject+Property.m in Sources */,
 				A284C12A1AEBCB7F00D90ED5 /* NSIndexPath+Offset.m in Sources */,
 				A20A5A6C1B4E2886004E2474 /* NSFileHandleDemoViewController.m in Sources */,
-				A284C1251AEBC19C00D90ED5 /* UINavigationBarDemoViewController.m in Sources */,
 				A219B8B71A615CA100135327 /* UIView+Screenshot.m in Sources */,
 				A284C13F1AEBCF9600D90ED5 /* NSDateFormatterDemoViewController.m in Sources */,
 				A2EE52B51B89FD920000E7B3 /* UIBezierPath+LxThroughPointsBezier.m in Sources */,
