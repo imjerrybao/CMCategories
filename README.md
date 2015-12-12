@@ -6,7 +6,12 @@ Objective-C Categories in iOS, a collection of useful Objective-C Categories ext
 
 ## Install Via Cocoapods
 ````
-pod 'CMCategories'
+pod 'CMCategories/CoreData'
+pod 'CMCategories/CoreLocation'
+pod 'CMCategories/Foundation'
+pod 'CMCategories/MapKit'
+pod 'CMCategories/QuartzCore'
+pod 'CMCategories/UIKit'
 ````
 
 ## Foundation
