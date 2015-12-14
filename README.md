@@ -2,7 +2,7 @@ CMCategories
 ================
 Another fork of [iOS-Categories](https://github.com/shaojiankui/iOS-Categories)
 
-iOS Categories of Foundation, UIKit, CoreData, QuartzCore, CoreLocation And MapKit.
+iOS Categories of Foundation, UIKit, CoreData, QuartzCore, CoreLocation and MapKit.
 
 ## Install Via Cocoapods
 ````
