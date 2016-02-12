@@ -4,8 +4,8 @@ Another fork of [iOS-Categories](https://github.com/shaojiankui/iOS-Categories)
 
 iOS Categories of Foundation, UIKit, CoreData, QuartzCore, CoreLocation and MapKit.
 
-## Install Via Cocoapods
-````
+## Install Via CocoaPods
+```
 pod 'CMCategories'
 
 OR
@@ -16,7 +16,7 @@ pod 'CMCategories/Foundation'
 pod 'CMCategories/MapKit'
 pod 'CMCategories/QuartzCore'
 pod 'CMCategories/UIKit'
-````
+```
 
 ## Foundation
 * NSArray
